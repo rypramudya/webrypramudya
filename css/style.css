@@ -1,0 +1,90 @@
+body {
+  min-height: 2000px;
+  background-color: rgb(36, 36, 36);
+}
+
+.gambar {
+  padding-top: 10px;
+}
+#home {
+  margin-top: 50px;
+  padding: 2rem 1rem;
+  background-color: rgb(36, 36, 36);
+  color: white;
+}
+
+.text {
+  margin-top: 200px;
+}
+#about {
+  padding: 2rem 1rem;
+  background-color: rgb(20, 20, 20);
+  padding-top: 100px;
+  font-size: medium;
+  color: white;
+  padding-bottom: 50px;
+}
+
+#projects {
+  padding-top: 100px;
+  background-color: rgb(28, 28, 28);
+  color: white;
+  padding-bottom: 30px;
+}
+
+.navbar {
+  background: transparent;
+  font-family: poppins semibold;
+}
+
+.teksabout {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.my-5 {
+  color: white;
+}
+
+#skill {
+  padding: 1rem 1rem;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+#gallery {
+  padding-top: 100px;
+}
+
+#client {
+  color: gray;
+  background-color: rgb(26, 26, 26);
+}
+
+#kotakan {
+  background-color: rgba(49, 49, 49, 0.271);
+  border-radius: 10px;
+  border: 10px;
+  border-color: rgba(255, 255, 255, 0.821);
+}
+
+#filsit {
+  background-color: rgba(49, 49, 49, 0.271);
+  border-radius: 10px;
+  border: 10px;
+  border-color: rgba(255, 255, 255, 0.821);
+}
+
+#kotakankontak {
+  background-color: rgba(8, 8, 8, 0.692);
+  border-radius: 10px;
+  border: 10px;
+  margin-left: 500px;
+}
+
+#kotakan2 {
+  background-color: rgba(49, 49, 49, 0.271);
+  border-radius: 10px;
+  border: 10px;
+  padding-right: 100px;
+}
